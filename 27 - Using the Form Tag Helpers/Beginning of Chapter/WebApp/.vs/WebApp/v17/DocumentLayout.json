@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|c:\\users\\sgkim\\documents\\github\\pro-asp.net-core-6\\27 - using the form tag helpers\\beginning of chapter\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|c:\\users\\sgkim\\documents\\github\\pro-asp.net-core-6\\27 - using the form tag helpers\\beginning of chapter\\webapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|c:\\users\\sgkim\\documents\\github\\pro-asp.net-core-6\\27 - using the form tag helpers\\beginning of chapter\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|c:\\users\\sgkim\\documents\\github\\pro-asp.net-core-6\\27 - using the form tag helpers\\beginning of chapter\\webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|c:\\users\\sgkim\\documents\\github\\pro-asp.net-core-6\\27 - using the form tag helpers\\beginning of chapter\\webapp\\views\\home\\_rowpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|solutionrelative:views\\home\\_rowpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|c:\\users\\sgkim\\documents\\github\\pro-asp.net-core-6\\27 - using the form tag helpers\\beginning of chapter\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|c:\\users\\sgkim\\documents\\github\\pro-asp.net-core-6\\27 - using the form tag helpers\\beginning of chapter\\webapp\\views\\home\\_cellpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|solutionrelative:views\\home\\_cellpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|c:\\users\\sgkim\\documents\\github\\pro-asp.net-core-6\\27 - using the form tag helpers\\beginning of chapter\\webapp\\views\\home\\html.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|solutionrelative:views\\home\\html.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T13:31:18.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T13:31:16.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:23:37.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T13:23:13.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_RowPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\Views\\Home\\_RowPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_RowPartial.cshtml",
+              "ToolTip": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\Views\\Home\\_RowPartial.cshtml",
+              "RelativeToolTip": "Views\\Home\\_RowPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T13:22:57.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_CellPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\Views\\Home\\_CellPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_CellPartial.cshtml",
+              "ToolTip": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\Views\\Home\\_CellPartial.cshtml",
+              "RelativeToolTip": "Views\\Home\\_CellPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T13:22:53.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T13:22:38.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Html.cshtml",
+              "DocumentMoniker": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\Views\\Home\\Html.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Html.cshtml",
+              "ToolTip": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\27 - Using the Form Tag Helpers\\Beginning of Chapter\\WebApp\\Views\\Home\\Html.cshtml",
+              "RelativeToolTip": "Views\\Home\\Html.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T13:22:37.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

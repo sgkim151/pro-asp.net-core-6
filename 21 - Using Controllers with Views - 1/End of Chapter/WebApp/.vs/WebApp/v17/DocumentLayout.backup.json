@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\21 - Using Controllers with Views - 1\\End of Chapter\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|c:\\users\\sgkim\\documents\\github\\pro-asp.net-core-6\\21 - using controllers with views - 1\\end of chapter\\webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|c:\\users\\sgkim\\documents\\github\\pro-asp.net-core-6\\21 - using controllers with views - 1\\end of chapter\\webapp\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|c:\\users\\sgkim\\documents\\github\\pro-asp.net-core-6\\21 - using controllers with views - 1\\end of chapter\\webapp\\webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{90C71791-25A5-4595-9528-875F21F64F97}|WebApp.csproj|solutionrelative:webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\21 - Using Controllers with Views - 1\\End of Chapter\\WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\21 - Using Controllers with Views - 1\\End of Chapter\\WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T13:05:32.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\21 - Using Controllers with Views - 1\\End of Chapter\\WebApp\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\21 - Using Controllers with Views - 1\\End of Chapter\\WebApp\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T13:04:28.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApp",
+              "DocumentMoniker": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\21 - Using Controllers with Views - 1\\End of Chapter\\WebApp\\WebApp.csproj",
+              "RelativeDocumentMoniker": "WebApp.csproj",
+              "ToolTip": "C:\\Users\\sgkim\\Documents\\GitHub\\pro-asp.net-core-6\\21 - Using Controllers with Views - 1\\End of Chapter\\WebApp\\WebApp.csproj",
+              "RelativeToolTip": "WebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T13:04:14.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
